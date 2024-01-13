@@ -28,14 +28,11 @@ The Medicine Form Project is a user-centric web application designed for streaml
 
 ## Screenshots
 
-### Home Page
-![Home Page](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/)
+### Desktop View
+![Home Page](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/DesktopView.png)
 
-### Medicine List
-![Medicine List](https://github.com/yourusername/your-repo-name/blob/main/screenshots/medicine-list.png)
-
-### Medicine Form
-![Medicine Form](https://github.com/yourusername/your-repo-name/blob/main/screenshots/medicine-form.png)
+### Mobile View
+![Medicine List](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/MobileView.png)
 
 
 ### Demo Video
