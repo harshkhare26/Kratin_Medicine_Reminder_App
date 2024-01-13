@@ -1,6 +1,3 @@
-// ## Demo
-
-**Live Demo**: [Click here to see the live demo](https://your-demo-link.com)
 
 
 # Medicine Form Project
@@ -28,18 +25,18 @@ The Medicine Form Project is a user-centric web application designed for streaml
 
 ## Screenshots
 
-### Desktop View
-![Home Page](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/DesktopView.png)
+### Desktop 
+![Desktop](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/DesktopView.png)
 
-### Mobile View
-![Medicine List](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/MobileView.png)
+### Mobile 
+![Mobile](https://github.com/harshkhare26/Kratin_Medicine_Reminder_App/blob/main/screenshots/MobileView.png)
 
 
 ### Demo Video
 
 Watch a quick walk-through of the app in action:
 
-[Watch the video](https://your-demo-video-link.com)
+[Watch the video](https://youtu.be/S316GmQIm0Y?si=mNauS5ixGIimkts0)
 
 ## Technologies
 
