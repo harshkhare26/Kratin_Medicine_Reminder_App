@@ -9,7 +9,7 @@ const handleResponse = async (response) => {
     return response.json();
 };
 
-// Medicine API Calls
+
 export const getMedicines = async () => {
     try {
         const response = await fetch(`${API_BASE_URL}/`);
