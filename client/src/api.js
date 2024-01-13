@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api'; // Adjust this URL to match your server
+const API_BASE_URL = 'https://kratin-medicine-reminder.onrender.com/api'; // Adjust this URL to match your server
 
 // Helper function to handle response
 const handleResponse = async (response) => {
