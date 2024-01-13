@@ -1,10 +1,10 @@
 
 
-# Medicine Form Project
+# Medicine Reminder Project
 
 ## Overview
 
-The Medicine Form Project is a user-centric web application designed for streamlined management of medication regimens. It enables users to easily add, track, and update their medicines, including details like dosage and intake times. The application features a responsive design for seamless use across various devices and includes a 'Take Medicine' function to accurately track daily medication intake. This tool is essential for anyone seeking an organized approach to managing their healthcare needs.
+The Medicine Reminder Project is a user-centric web application designed for streamlined management of medication regimens. It enables users to easily add, track, and update their medicines, including details like dosage and intake times. The application features a responsive design for seamless use across various devices and includes a 'Take Medicine' function to accurately track daily medication intake. This tool is essential for anyone seeking an organized approach to managing their healthcare needs.
 
 
 ## Features
